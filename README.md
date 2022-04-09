@@ -98,7 +98,7 @@ That require some dependencies as follwoing:
 Note: Two Reports will be generated:
 1. First one is Allure-Report and can be generated using this command 
   ```sh
-   sudo docker-compose.minio.yml
+   sudo docker-compose.minio.yml up
    ```
 2. Mocha Awesome Report: found at /cypress/reports/html
 
