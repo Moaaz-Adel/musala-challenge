@@ -1,0 +1,116 @@
+{
+  "uid" : "ebc8840dcb46bcb",
+  "name" : "Test Case 2: Should load /company url",
+  "fullName" : "Test Case 2: Should load /company url",
+  "historyId" : "69522cde890e9edc5f257a6d4feb875f",
+  "time" : {
+    "start" : 1649474878039,
+    "stop" : 1649474938255,
+    "duration" : 60216
+  },
+  "status" : "broken",
+  "statusMessage" : "Timed out after waiting `60000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `60000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `/media/moaz/DATA/Test/musala-challenge/cypress.json` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands.",
+  "statusTrace" : "CypressError: Timed out after waiting `60000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `60000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `/media/moaz/DATA/Test/musala-challenge/cypress.json` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands.\n    at timedOutWaitingForPageLoad (https://www.musala.com/__cypress/runner/cypress_runner.js:158301:72)\n    at https://www.musala.com/__cypress/runner/cypress_runner.js:159354:16\n    at tryCatcher (https://www.musala.com/__cypress/runner/cypress_runner.js:13022:23)\n    at https://www.musala.com/__cypress/runner/cypress_runner.js:8144:41\n    at tryCatcher (https://www.musala.com/__cypress/runner/cypress_runner.js:13022:23)\n    at Promise._settlePromiseFromHandler (https://www.musala.com/__cypress/runner/cypress_runner.js:10957:31)\n    at Promise._settlePromise (https://www.musala.com/__cypress/runner/cypress_runner.js:11014:18)\n    at Promise._settlePromise0 (https://www.musala.com/__cypress/runner/cypress_runner.js:11059:10)\n    at Promise._settlePromises (https://www.musala.com/__cypress/runner/cypress_runner.js:11135:18)\n    at _drainQueueStep (https://www.musala.com/__cypress/runner/cypress_runner.js:7729:12)\n    at _drainQueue (https://www.musala.com/__cypress/runner/cypress_runner.js:7722:9)\n    at Async.../../node_modules/bluebird/js/release/async.js.Async._drainQueues (https://www.musala.com/__cypress/runner/cypress_runner.js:7738:5)\n    at Async.drainQueues (https://www.musala.com/__cypress/runner/cypress_runner.js:7608:14)\nFrom Your Spec Code:\n    at Context.eval (https://www.musala.com/__cypress/tests?p=cypress/tests/companyModule.spec.js:358:8)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Timed out after waiting `60000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `60000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `/media/moaz/DATA/Test/musala-challenge/cypress.json` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands.",
+    "statusTrace" : "CypressError: Timed out after waiting `60000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `60000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `/media/moaz/DATA/Test/musala-challenge/cypress.json` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands.\n    at timedOutWaitingForPageLoad (https://www.musala.com/__cypress/runner/cypress_runner.js:158301:72)\n    at https://www.musala.com/__cypress/runner/cypress_runner.js:159354:16\n    at tryCatcher (https://www.musala.com/__cypress/runner/cypress_runner.js:13022:23)\n    at https://www.musala.com/__cypress/runner/cypress_runner.js:8144:41\n    at tryCatcher (https://www.musala.com/__cypress/runner/cypress_runner.js:13022:23)\n    at Promise._settlePromiseFromHandler (https://www.musala.com/__cypress/runner/cypress_runner.js:10957:31)\n    at Promise._settlePromise (https://www.musala.com/__cypress/runner/cypress_runner.js:11014:18)\n    at Promise._settlePromise0 (https://www.musala.com/__cypress/runner/cypress_runner.js:11059:10)\n    at Promise._settlePromises (https://www.musala.com/__cypress/runner/cypress_runner.js:11135:18)\n    at _drainQueueStep (https://www.musala.com/__cypress/runner/cypress_runner.js:7729:12)\n    at _drainQueue (https://www.musala.com/__cypress/runner/cypress_runner.js:7722:9)\n    at Async.../../node_modules/bluebird/js/release/async.js.Async._drainQueues (https://www.musala.com/__cypress/runner/cypress_runner.js:7738:5)\n    at Async.drainQueues (https://www.musala.com/__cypress/runner/cypress_runner.js:7608:14)\nFrom Your Spec Code:\n    at Context.eval (https://www.musala.com/__cypress/tests?p=cypress/tests/companyModule.spec.js:358:8)",
+    "steps" : [ {
+      "name" : "Navigate to HomePage",
+      "time" : {
+        "start" : 1649474878040,
+        "stop" : 1649474938255,
+        "duration" : 60215
+      },
+      "status" : "failed",
+      "statusMessage" : "Timed out after waiting `60000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `60000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `/media/moaz/DATA/Test/musala-challenge/cypress.json` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands.",
+      "statusTrace" : "CypressError: Timed out after waiting `60000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `60000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `/media/moaz/DATA/Test/musala-challenge/cypress.json` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands.\n    at timedOutWaitingForPageLoad (https://www.musala.com/__cypress/runner/cypress_runner.js:158301:72)\n    at https://www.musala.com/__cypress/runner/cypress_runner.js:159354:16\n    at tryCatcher (https://www.musala.com/__cypress/runner/cypress_runner.js:13022:23)\n    at https://www.musala.com/__cypress/runner/cypress_runner.js:8144:41\n    at tryCatcher (https://www.musala.com/__cypress/runner/cypress_runner.js:13022:23)\n    at Promise._settlePromiseFromHandler (https://www.musala.com/__cypress/runner/cypress_runner.js:10957:31)\n    at Promise._settlePromise (https://www.musala.com/__cypress/runner/cypress_runner.js:11014:18)\n    at Promise._settlePromise0 (https://www.musala.com/__cypress/runner/cypress_runner.js:11059:10)\n    at Promise._settlePromises (https://www.musala.com/__cypress/runner/cypress_runner.js:11135:18)\n    at _drainQueueStep (https://www.musala.com/__cypress/runner/cypress_runner.js:7729:12)\n    at _drainQueue (https://www.musala.com/__cypress/runner/cypress_runner.js:7722:9)\n    at Async.../../node_modules/bluebird/js/release/async.js.Async._drainQueues (https://www.musala.com/__cypress/runner/cypress_runner.js:7738:5)\n    at Async.drainQueues (https://www.musala.com/__cypress/runner/cypress_runner.js:7608:14)\nFrom Your Spec Code:\n    at Context.eval (https://www.musala.com/__cypress/tests?p=cypress/tests/companyModule.spec.js:358:8)",
+      "steps" : [ {
+        "name" : "visit /",
+        "time" : {
+          "start" : 1649474878071,
+          "stop" : 1649474938255,
+          "duration" : 60184
+        },
+        "status" : "failed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "uncaught exception SyntaxError: Unexpected token '<'",
+        "time" : {
+          "start" : 1649474938255,
+          "stop" : 1649474938255,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "c6a3807a5210e883",
+      "name" : "companyModule.spec.js:2022-04-09T03:28:58.148Z",
+      "source" : "c6a3807a5210e883.png",
+      "type" : "image/png",
+      "size" : 36471
+    }, {
+      "uid" : "e3bbf6da486c9b77",
+      "name" : "video recording",
+      "source" : "e3bbf6da486c9b77.mp4",
+      "type" : "video/mp4",
+      "size" : 1664126
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Company Module Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ebc8840dcb46bcb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "emails": {
+    "without@": "abc-mail.com",
+    "stringOnly": "NotValid",
+    "startsWith(1)": "-abc@mail..com",
+    "multiple@": "A@b@c@domain.com",
+    "NumbersOnly": "1234567788"
+  }
+}

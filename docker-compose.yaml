@@ -1,0 +1,8 @@
+version: '3.2'
+services:
+  # this container will run Cypress test using Chrome browser
+  cypress:
+    image: "cypress/included:9.5.3"
+
+    command: 
+           bash -c "npm run test:chrome --browser chrome"

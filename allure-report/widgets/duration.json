@@ -1,0 +1,91 @@
+[ {
+  "uid" : "556203a3ca292133",
+  "name" : "Test Case 4: Print in the console the list with available positions by city",
+  "time" : {
+    "start" : 1649474867014,
+    "stop" : 1649474867015,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4984adc76c5ddab6",
+  "name" : "Test Case 1: Should shows error message when providing NumbersOnly",
+  "time" : {
+    "start" : 1649515438539,
+    "stop" : 1649515447336,
+    "duration" : 8797
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebc8840dcb46bcb",
+  "name" : "Test Case 2: Should load /company url",
+  "time" : {
+    "start" : 1649474878039,
+    "stop" : 1649474938255,
+    "duration" : 60216
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "90354eaa37925fc7",
+  "name" : "Test Case 1: Should shows error message when providing multiple@",
+  "time" : {
+    "start" : 1649515430066,
+    "stop" : 1649515438532,
+    "duration" : 8466
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64732ec82ad89eb7",
+  "name" : "Test Case 1: Should shows error message when providing without@",
+  "time" : {
+    "start" : 1649515403756,
+    "stop" : 1649515412818,
+    "duration" : 9062
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "811440dad6be19ef",
+  "name" : "Test Case 1: Should shows error message when invalid email format is provided",
+  "time" : {
+    "start" : 1649510969857,
+    "stop" : 1649511030041,
+    "duration" : 60184
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a65c58f179d2662b",
+  "name" : "Test Case 1: Should shows error message when providing stringOnly",
+  "time" : {
+    "start" : 1649515412832,
+    "stop" : 1649515421297,
+    "duration" : 8465
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f05c9c64d9cc21dd",
+  "name" : "Test Case 1: Should shows error message when providing startsWith(1)",
+  "time" : {
+    "start" : 1649515421322,
+    "stop" : 1649515430044,
+    "duration" : 8722
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a159d87740985077",
+  "name" : "Test Case 3: Should shows validation messages for applying form",
+  "time" : {
+    "start" : 1649474806826,
+    "stop" : 1649474867014,
+    "duration" : 60188
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

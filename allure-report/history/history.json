@@ -1,0 +1,177 @@
+{
+  "8bbc1ec77b5dd956b2962d766b38a963" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "556203a3ca292133",
+      "status" : "broken",
+      "statusDetails" : "Timed out after waiting `60000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `60000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `/media/moaz/DATA/Test/musala-challenge/cypress.json` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands.",
+      "time" : {
+        "start" : 1649474867014,
+        "stop" : 1649474867015,
+        "duration" : 1
+      }
+    } ]
+  },
+  "1e8fe1fcf36918dc9d82e00472680ea2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a159d87740985077",
+      "status" : "broken",
+      "statusDetails" : "Timed out after waiting `60000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `60000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `/media/moaz/DATA/Test/musala-challenge/cypress.json` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands.",
+      "time" : {
+        "start" : 1649474806826,
+        "stop" : 1649474867014,
+        "duration" : 60188
+      }
+    } ]
+  },
+  "776a14b5c95c6ce6590edc793e755383" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f05c9c64d9cc21dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649515421322,
+        "stop" : 1649515430044,
+        "duration" : 8722
+      }
+    } ]
+  },
+  "66e94904caff92284b9ae10a489ffed4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90354eaa37925fc7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649515430066,
+        "stop" : 1649515438532,
+        "duration" : 8466
+      }
+    } ]
+  },
+  "ac949b8214db6c5a4131db900949c283" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4984adc76c5ddab6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649515438539,
+        "stop" : 1649515447336,
+        "duration" : 8797
+      }
+    } ]
+  },
+  "69522cde890e9edc5f257a6d4feb875f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ebc8840dcb46bcb",
+      "status" : "broken",
+      "statusDetails" : "Timed out after waiting `60000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `60000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `/media/moaz/DATA/Test/musala-challenge/cypress.json` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands.",
+      "time" : {
+        "start" : 1649474878039,
+        "stop" : 1649474938255,
+        "duration" : 60216
+      }
+    } ]
+  },
+  "48519cfa0454a28adc393c925c8e2e0a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "811440dad6be19ef",
+      "status" : "broken",
+      "statusDetails" : "Timed out after waiting `60000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `60000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `/media/moaz/DATA/Test/musala-challenge/cypress.json` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands.",
+      "time" : {
+        "start" : 1649510969857,
+        "stop" : 1649511030041,
+        "duration" : 60184
+      }
+    } ]
+  },
+  "b6a6dd9a98cb37952afd30a033ac0333" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "64732ec82ad89eb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649515403756,
+        "stop" : 1649515412818,
+        "duration" : 9062
+      }
+    } ]
+  },
+  "8000eedf1681d259504ded62c31c8ac9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a65c58f179d2662b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649515412832,
+        "stop" : 1649515421297,
+        "duration" : 8465
+      }
+    } ]
+  }
+}

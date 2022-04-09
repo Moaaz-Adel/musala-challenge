@@ -1,0 +1,458 @@
+{
+  "uid" : "64732ec82ad89eb7",
+  "name" : "Test Case 1: Should shows error message when providing without@",
+  "fullName" : "Test Case 1: Should shows error message when providing without@",
+  "historyId" : "b6a6dd9a98cb37952afd30a033ac0333",
+  "time" : {
+    "start" : 1649515403756,
+    "stop" : 1649515412818,
+    "duration" : 9062
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "time" : { },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "fixture (\"emails.json\")",
+      "time" : {
+        "start" : 1649515384509,
+        "stop" : 1649515384515,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "as (\"emails\")",
+      "time" : {
+        "start" : 1649515384515,
+        "stop" : 1649515384516,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Visit Musala HomePage",
+      "time" : {
+        "start" : 1649515403756,
+        "stop" : 1649515408494,
+        "duration" : 4738
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "visit /",
+        "time" : {
+          "start" : 1649515403857,
+          "stop" : 1649515408494,
+          "duration" : 4637
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "uncaught exception SyntaxError: Unexpected token '<'",
+        "time" : {
+          "start" : 1649515408493,
+          "stop" : 1649515408493,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "GET 200 https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+        "time" : {
+          "start" : 1649515408493,
+          "stop" : 1649515408493,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "POST https://www.google-analytics.com/j/collect?v=1&_v=j96&a=1754531271&t=pageview&_s=1&dl=https://www.musala.com/&ul=en-us&de=UTF-8&dt=Musala Soft&sd=24-bit&sr=1280x720&vp=1905x1080&je=0&_u=YEBAAAABAAAAAC~&jid=599260767&gjid=371979194&cid=1843746531.1649515407&tid=UA-39394628-2&_gid=1720922702.1649515407&_r=1&gtm=2wg3u0T9CS7TS&z=138753001",
+        "time" : {
+          "start" : 1649515408494,
+          "stop" : 1649515408494,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "POST 200 https://www.google-analytics.com/j/collect?v=1&_v=j96&a=1754531271&t=pageview&_s=1&dl=https%3A%2F%2Fwww.musala.com%2F&ul=en-us&de=UTF-8&dt=Musala%20Soft&sd=24-bit&sr=1280x720&vp=1905x1080&je=0&_u=YEBAAAABAAAAAC~&jid=599260767&gjid=371979194&cid=1843746531.1649515407&tid=UA-39394628-2&_gid=1720922702.1649515407&_r=1&gtm=2wg3u0T9CS7TS&z=138753001",
+        "time" : {
+          "start" : 1649515408494,
+          "stop" : 1649515408494,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "POST 200 https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-39394628-2&cid=1843746531.1649515407&jid=599260767&gjid=371979194&_gid=1720922702.1649515407&_u=YEBAAAAAAAAAAC~&z=1912985998",
+        "time" : {
+          "start" : 1649515408494,
+          "stop" : 1649515408494,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 6,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "get [data-alt='Contact us']",
+      "time" : {
+        "start" : 1649515408511,
+        "stop" : 1649515408525,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1649515408525,
+        "stop" : 1649515408694,
+        "duration" : 169
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #cf-1",
+      "time" : {
+        "start" : 1649515408694,
+        "stop" : 1649515408709,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "type Rolando Oberbrunner",
+      "time" : {
+        "start" : 1649515408709,
+        "stop" : 1649515409239,
+        "duration" : 530
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #cf-2",
+      "time" : {
+        "start" : 1649515409239,
+        "stop" : 1649515409250,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "type abc-mail.com",
+      "time" : {
+        "start" : 1649515409250,
+        "stop" : 1649515409584,
+        "duration" : 334
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #cf-3",
+      "time" : {
+        "start" : 1649515409584,
+        "stop" : 1649515409595,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "type (896) 480-2431 x6149",
+      "time" : {
+        "start" : 1649515409595,
+        "stop" : 1649515410035,
+        "duration" : 440
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #cf-4",
+      "time" : {
+        "start" : 1649515410035,
+        "stop" : 1649515410050,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "type aut consequatur aliquam quibusdam ad",
+      "time" : {
+        "start" : 1649515410050,
+        "stop" : 1649515410663,
+        "duration" : 613
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #cf-5",
+      "time" : {
+        "start" : 1649515410663,
+        "stop" : 1649515410676,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "type Perspiciatis repellendus minima debitis dignissimos delectus aliquid aut incidunt. Fugiat iste molestiae aliquid.",
+      "time" : {
+        "start" : 1649515410676,
+        "stop" : 1649515412202,
+        "duration" : 1526
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get [type='submit']",
+      "time" : {
+        "start" : 1649515412202,
+        "stop" : 1649515412217,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1649515412217,
+        "stop" : 1649515412337,
+        "duration" : 120
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /wp-json/contact-form-7/v1/contact-forms/875/feedback",
+      "time" : {
+        "start" : 1649515412337,
+        "stop" : 1649515412337,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "contains span, The e-mail address entered is invalid.",
+      "time" : {
+        "start" : 1649515412337,
+        "stop" : 1649515412817,
+        "duration" : 480
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **<span.wpcf7-not-valid-tip>** to be **visible**",
+      "time" : {
+        "start" : 1649515412817,
+        "stop" : 1649515412817,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "659f99193cd5258a",
+      "name" : "contactForm.spec.js:2022-04-09T14:43:23.550Z",
+      "source" : "659f99193cd5258a.png",
+      "type" : "image/png",
+      "size" : 214970
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 24,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Contact Form Tests"
+  }, {
+    "name" : "suite",
+    "value" : "Multiple Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64732ec82ad89eb7.json",
+  "parameterValues" : [ ]
+}

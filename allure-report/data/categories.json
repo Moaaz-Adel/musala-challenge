@@ -1,0 +1,81 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Timed out after waiting `60000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `60000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `/media/moaz/DATA/Test/musala-challenge/cypress.json` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands.",
+      "children" : [ {
+        "name" : "Test Case 3: Should shows validation messages for applying form",
+        "uid" : "a159d87740985077",
+        "parentUid" : "7fb74c3cc713e62669d1fb2f08927b57",
+        "status" : "broken",
+        "time" : {
+          "start" : 1649474806826,
+          "stop" : 1649474867014,
+          "duration" : 60188
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Case 4: Print in the console the list with available positions by city",
+        "uid" : "556203a3ca292133",
+        "parentUid" : "7fb74c3cc713e62669d1fb2f08927b57",
+        "status" : "broken",
+        "time" : {
+          "start" : 1649474867014,
+          "stop" : 1649474867015,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Case 2: Should load /company url",
+        "uid" : "ebc8840dcb46bcb",
+        "parentUid" : "7fb74c3cc713e62669d1fb2f08927b57",
+        "status" : "broken",
+        "time" : {
+          "start" : 1649474878039,
+          "stop" : 1649474938255,
+          "duration" : 60216
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test Case 1: Should shows error message when invalid email format is provided",
+        "uid" : "811440dad6be19ef",
+        "parentUid" : "7fb74c3cc713e62669d1fb2f08927b57",
+        "status" : "broken",
+        "time" : {
+          "start" : 1649510969857,
+          "stop" : 1649511030041,
+          "duration" : 60184
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7fb74c3cc713e62669d1fb2f08927b57"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

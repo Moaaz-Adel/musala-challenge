@@ -1,0 +1,25 @@
+{
+  "baseUrl": "https://www.musala.com",
+  "integrationFolder": "cypress/tests/",
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "chromeWebSecurity": false,
+  "reporter": "cypress-mochawesome-reporter",
+  "reporterOptions": {
+    "reporterEnabled": "mochawesome",
+    "inlineAssets": true,
+    "screenshotsFolder": "./cypress/snapshots/actual",
+    "trashAssetsBeforeRuns": true,
+    "reportDir": "cypress/reports/html/",
+    "quite": true,
+    "overwrite": false,
+    "html": false,
+    "json": true,
+    "charts": true
+  },
+  "retries": {
+    "runMode": 2,
+    "openMode": 2
+  },
+  "allureResultsPath": "allure-results"
+}
