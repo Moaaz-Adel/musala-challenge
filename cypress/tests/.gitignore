@@ -1,0 +1,11 @@
+# Node artifact files
+node_modules/
+
+#Test Results files
+allure-results
+cypress/report
+cypress/screenshots
+cypress/videos
+
+# IDE
+.vscode
