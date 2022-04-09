@@ -7,5 +7,5 @@ cypress/report
 cypress/screenshots
 cypress/videos
 
-# Ide
+# IDE
 .vscode
