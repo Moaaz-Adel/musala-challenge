@@ -93,7 +93,7 @@ That require some dependencies as follwoing:
    
 ### After testing finishes, a report will be opened automatically like the following
 
-![image](![image](https://user-images.githubusercontent.com/66737098/162593109-5992053f-14af-4bb1-bcda-3500526876ad.png))
+![image]((https://user-images.githubusercontent.com/66737098/162593109-5992053f-14af-4bb1-bcda-3500526876ad.png))
 
 Note: Two Reports will be generated:
 1. First one is Allure-Report and can be generated using this command 
