@@ -104,6 +104,11 @@ Note: Two Reports will be generated:
 
 And All reports includes videos and screenshots
 
+Note: You can generate an HTML report using the following Command:
+```sh
+   allure serve
+   ```
+
 -----------------
 
 ### Pages found at:
