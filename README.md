@@ -51,7 +51,7 @@
 
 1. Clone this repo inside any directory
    ```sh
-   git clone https://github.com/Moaz-Adel/vois_challenge.git
+   git clone https://github.com/Moaz-Adel/musala-challenge.git
    ```
 2. Change current directory to be inside the cloned repo
    ```sh
